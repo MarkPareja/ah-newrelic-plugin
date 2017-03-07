@@ -23,7 +23,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "standard": "^8.6.0"
+    "standard": "^9.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
