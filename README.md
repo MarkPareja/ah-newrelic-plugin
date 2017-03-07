@@ -1,5 +1,7 @@
 ## ActionHero Transactions for New Reli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/actionhero/ah-newrelic-plugin.svg)](https://greenkeeper.io/)
+
 ## Notes
 - install `npm install --save ah-newrelic-plugin`
 - link `./node_modules/.bin/actionhero link --name ah-newrelic-plugin`
